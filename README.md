@@ -1,5 +1,5 @@
 # DESU_DS
-analyzing brain image to discover age marker
+analyzing brain images to discover age marker
 
 This codes analyze the braib MRI images and extract the important feauture in aging in the somatosensorimotrice pathways.
 steps:
